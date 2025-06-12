@@ -1,5 +1,5 @@
 [package]
-name = "encryptor_lib"
+name = "encryptor_rs"
 version = "0.1.0"
 edition = "2024"
 
